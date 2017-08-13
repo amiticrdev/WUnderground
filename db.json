@@ -3,342 +3,396 @@
     "nm": "Edmund lronside",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "1016"
+    "yrs": "1016",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edmund lronside"
+    ]
   },
   {
     "nm": "Cnut",
     "cty": "United Kingdom",
     "hse": "House of Denmark",
-    "yrs": "1016-1035"
+    "yrs": "1016-1035",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Cnut"
+    ]
   },
   {
     "nm": "Harold I Harefoot",
     "cty": "United Kingdom",
     "hse": "House of Denmark",
-    "yrs": "1035-1040"
+    "yrs": "1035-1040",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Harold I Harefoot"
+    ]
   },
   {
     "nm": "Harthacanut",
     "cty": "United Kingdom",
     "hse": "House of Denmark",
-    "yrs": "1040-1042"
+    "yrs": "1040-1042",
+      "KeyWord":[
+       "United",
+        "Kingdom",
+        "Harthacanut"
+    ]
   },
   {
     "nm": "Edward the Confessor",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "1042-1066"
+    "yrs": "1042-1066",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward the Confessor"
+    ]
   },
   {
     "nm": "Harold II",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "1066"
+    "yrs": "1066",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Harold IT"
+    ]
   },
   {
     "nm": "William I",
     "cty": "United Kingdom",
     "hse": "House of Normandy",
-    "yrs": "1066-1087"
+    "yrs": "1066-1087",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "William I"
+    ]
   },
   {
     "nm": "William II",
     "cty": "United Kingdom",
     "hse": "House of Normandy",
-    "yrs": "1087-1100"
+    "yrs": "1087-1100",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "William II"
+    ]
   },
   {
     "nm": "Henry I",
     "cty": "United Kingdom",
     "hse": "House of Normandy",
-    "yrs": "1100-1135"
+    "yrs": "1100-1135",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry I"
+    ]
   },
   {
     "nm": "Stephen",
     "cty": "United Kingdom",
     "hse": "House of Blois",
-    "yrs": "1135-1154"
+    "yrs": "1135-1154",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Stephen"
+    ]
   },
   {
     "nm": "Henry II",
     "cty": "United Kingdom",
     "hse": "House of Angevin",
-    "yrs": "1154-1189"
+    "yrs": "1154-1189",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry II"
+    ]
   },
   {
     "nm": "Richard I",
     "cty": "United Kingdom",
     "hse": "House of Angevin",
-    "yrs": "1189-1199"
+    "yrs": "1189-1199",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Richard I"
+    ]
   },
   {
     "nm": "John",
     "cty": "United Kingdom",
     "hse": "House of Angevin",
-    "yrs": "1199-1216"
+    "yrs": "1199-1216",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "John"
+    ]
   },
   {
     "nm": "Henry III",
     "cty": "United Kingdom",
     "hse": "House of Plantagenet",
-    "yrs": "1216-1272"
-  },
-  {
-    "nm": "Edward I",
-    "cty": "United Kingdom",
-    "hse": "House of Plantagenet",
-    "yrs": "1272-1307"
-  },
-  {
-    "nm": "Edward II",
-    "cty": "United Kingdom",
-    "hse": "House of Plantagenet",
-    "yrs": "1307-1327"
-  },
-  {
-    "nm": "Edward III",
-    "cty": "United Kingdom",
-    "hse": "House of Plantagenet",
-    "yrs": "1327-1377"
-  },
-  {
-    "nm": "Richard II",
-    "cty": "United Kingdom",
-    "hse": "House of Plantagenet",
-    "yrs": "1377-1399"
-  },
-  {
-    "nm": "Henry IV",
-    "cty": "United Kingdom",
-    "hse": "House of Lancaster",
-    "yrs": "1399-1413"
+    "yrs": "1216-1272",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry III"
+    ]
   },
   {
     "nm": "Henry V",
     "cty": "United Kingdom",
     "hse": "House of Lancaster",
-    "yrs": "1413-1422"
+    "yrs": "1413-1422",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry V"
+    ]
   },
   {
     "nm": "Henry VI",
     "cty": "United Kingdom",
     "hse": "House of Lancaster",
-    "yrs": "1422-1461"
+    "yrs": "1422-1461",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry VI"
+    ]
   },
   {
     "nm": "Edward IV",
     "cty": "United Kingdom",
     "hse": "House of York",
-    "yrs": "1461-1483"
+    "yrs": "1461-1483",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward IV"
+    ]
   },
   {
     "nm": "Edward V",
     "cty": "United Kingdom",
     "hse": "House of York",
-    "yrs": "1483"
+    "yrs": "1483",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Harold IT"
+    ]
   },
   {
     "nm": "Richard III",
     "cty": "United Kingdom",
     "hse": "House of York",
-    "yrs": "1483-1485"
+    "yrs": "1483-1485",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Richard III"
+    ]
   },
   {
     "nm": "Henry VII",
     "cty": "United Kingdom",
     "hse": "House of Tudor",
-    "yrs": "1485-1509"
+    "yrs": "1485-1509",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry VII"
+    ]
   },
   {
     "nm": "Henry VIII",
     "cty": "United Kingdom",
     "hse": "House of Tudor",
-    "yrs": "1509-1547"
+    "yrs": "1509-1547",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Henry VIII"
+    ]
   },
   {
     "nm": "Edward VI",
     "cty": "United Kingdom",
     "hse": "House of Tudor",
-    "yrs": "1547-1553"
-  },
-  {
-    "nm": "Mary I",
-    "cty": "United Kingdom",
-    "hse": "House of Tudor",
-    "yrs": "1553-1558"
-  },
-  {
-    "nm": "Elizabeth I",
-    "cty": "United Kingdom",
-    "hse": "House of Tudor",
-    "yrs": "1558-1603"
-  },
-  {
-    "nm": "James I",
-    "cty": "United Kingdom",
-    "hse": "House of Stuart",
-    "yrs": "1603-1625"
-  },
-  {
-    "nm": "Charles I",
-    "cty": "United Kingdom",
-    "hse": "House of Stuart",
-    "yrs": "1625-1649"
-  },
-  {
-    "nm": "Commonwealth",
-    "cty": "United Kingdom",
-    "hse": "Commonwealth",
-    "yrs": "1649-1653"
-  },
-  {
-    "nm": "Oliver Cromwell",
-    "cty": "United Kingdom",
-    "hse": "Commonwealth",
-    "yrs": "1653-1658"
-  },
-  {
-    "nm": "Richard Cromwell",
-    "cty": "United Kingdom",
-    "hse": "Commonwealth",
-    "yrs": "1658-1659"
-  },
-  {
-    "nm": "Charles II",
-    "cty": "United Kingdom",
-    "hse": "House of Stuart",
-    "yrs": "1660-1685"
-  },
-  {
-    "nm": "James II",
-    "cty": "United Kingdom",
-    "hse": "House of Stuart",
-    "yrs": "1685-1688"
-  },
-  {
-    "nm": "William III",
-    "cty": "United Kingdom",
-    "hse": "House of Orange",
-    "yrs": "1689-1694"
-  },
-  {
-    "nm": "Anne",
-    "cty": "United Kingdom",
-    "hse": "House of Stuart",
-    "yrs": "1702-1714"
-  },
-  {
-    "nm": "George I",
-    "cty": "United Kingdom",
-    "hse": "House of Hanover",
-    "yrs": "1714-1727"
-  },
-  {
-    "nm": "George II",
-    "cty": "United Kingdom",
-    "hse": "House of Hanover",
-    "yrs": "1727-1760"
-  },
-  {
-    "nm": "George III",
-    "cty": "United Kingdom",
-    "hse": "House of Hanover",
-    "yrs": "1760-1820"
+    "yrs": "1547-1553",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Harold IT"
+    ]
   },
   {
     "nm": "George IV",
     "cty": "United Kingdom",
     "hse": "House of Hanover",
-    "yrs": "1820-1830"
+    "yrs": "1820-1830",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "George IV"
+    ]
   },
   {
     "nm": "William IV",
     "cty": "United Kingdom",
     "hse": "House of Hanover",
-    "yrs": "1830-1837"
+    "yrs": "1830-1837",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "William IV"
+    ]
   },
   {
     "nm": "Victoria",
     "cty": "United Kingdom",
     "hse": "House of Hanover",
-    "yrs": "1837-1901"
+    "yrs": "1837-1901",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Victoria"
+    ]
   },
   {
     "nm": "Edward VII",
     "cty": "United Kingdom",
     "hse": "House of Saxe-Coburg-Gotha",
-    "yrs": "1901-1910"
+    "yrs": "1901-1910",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward VII"
+    ]
   },
   {
     "nm": "George V",
     "cty": "United Kingdom",
     "hse": "House of Windsor",
-    "yrs": "1910-1936"
+    "yrs": "1910-1936",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "George V"
+    ]
   },
   {
     "nm": "Edward VIII",
     "cty": "United Kingdom",
     "hse": "House of Windsor",
-    "yrs": "1936"
+    "yrs": "1936",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward VIII"
+    ]
   },
   {
     "nm": "George VI",
     "cty": "United Kingdom",
     "hse": "House of Windsor",
-    "yrs": "1936-1952"
+    "yrs": "1936-1952",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "George VI"
+    ]
   },
   {
     "nm": "Elizabeth II",
     "cty": "United Kingdom",
     "hse": "House of Windsor",
-    "yrs": "1952-"
+    "yrs": "1952-",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Elizabeth II"
+    ]
   },
   {
     "nm": "Edward the Elder",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "899-925"
+    "yrs": "899-925",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward the Elder"
+    ]
   },
   {
     "nm": "Athelstan",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "925-940"
+    "yrs": "925-940",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Athelstan"
+    ]
   },
   {
     "nm": "Edmund",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "940-946"
+    "yrs": "940-946",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward"
+    ]
   },
   {
     "nm": "Edred",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "946-955"
-  },
-  {
-    "nm": "Edwy",
-    "cty": "United Kingdom",
-    "hse": "House of Wessex",
-    "yrs": "955-959"
-  },
-  {
-    "nm": "Edgar",
-    "cty": "United Kingdom",
-    "hse": "House of Wessex",
-    "yrs": "959-975"
+    "yrs": "946-955",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward"
+    ]
   },
   {
     "nm": "Edward the Martyr",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "975-978"
+    "yrs": "975-978",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Edward the Martyr"
+    ]
   },
   {
     "nm": "Ethelred II the Unready",
     "cty": "United Kingdom",
     "hse": "House of Wessex",
-    "yrs": "978-1016"
+    "yrs": "978-1016",
+    "KeyWord":[
+       "United",
+        "Kingdom",
+        "Ethelred II the Unready"
+    ]
   }
 ]
